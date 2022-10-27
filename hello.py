@@ -3,3 +3,4 @@ print("hii mani")
 print("hii Goparna")
 
 print(" ")
+print(*)
