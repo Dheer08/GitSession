@@ -4,4 +4,4 @@ print("hii Goparna")
 
 print("pavan")
 print(*)
-print("Hello merge")
+Print("MergeConflict")
