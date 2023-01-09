@@ -1,0 +1,9 @@
+diff a/hello.py b/hello.py	(rejected hunks)
+@@ -8,7 +8,6 @@
+ -print("Hello")
+ +<<<<<<< Updated upstream
+ +Print("MergeConflict")
+- Print("Hi Ayeswarya")
+ +Print("Hi Ayeswarya")
+ +=======
+ +print("Hello")

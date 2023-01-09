@@ -4,5 +4,7 @@ print("hii Goparna")
 
 print("pavan")
 print(*)
+<<<<<upstream<< Updated 
 Print("MergeConflict")
-Print("Hi Ayeswarya")
+=======
+>>>>>>> Stashed changes
